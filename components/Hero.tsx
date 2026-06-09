@@ -77,7 +77,7 @@ export default function Hero() {
             Cover Letter
           </a>
           <a
-            href="/Bhavani_Sankar_Resume.pdf"
+            href="/resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto inline-flex items-center justify-center rounded-xl border border-white/20 bg-white/5 px-8 py-3.5 text-sm font-semibold text-white transition-all hover:bg-white/10 hover:border-green-500/50 hover:-translate-y-0.5 active:translate-y-0 backdrop-blur-sm"
